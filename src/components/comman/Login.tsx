@@ -65,7 +65,7 @@ const Login = () => {
               <div>{errors.organizationUrl}</div>
             ) : null}
             <button type="submit" className="btn btn-primary mb-2 mt-2">
-              Submit
+              Login
             </button>
           </Form>
         )}
